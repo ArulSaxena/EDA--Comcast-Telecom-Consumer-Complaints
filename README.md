@@ -23,7 +23,7 @@ Filing on behalf of someone
 
 # 2->Which complaint types are maximum i.e., Closed or Open.
 - Create a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
-- Provide state wise status of complaints in a stacked bar chart. Use the categorized variable from Q3. Provide insights on:
+- Provide state wise status of complaints in a stacked bar chart. 
 
 # 3->Which state has the maximum complaints
 # 4->Which state has the highest percentage of unresolved complaints
